@@ -342,32 +342,7 @@ Trend indicators were also created using `UNICHAR()` to display upward and downw
                  Business Insights
                            ↓
                 Data-Driven Decisions
-```
 
----
-
-# 📁 Project Structure
-
-You can modify this section according to your actual GitHub files:
-
-```text
-Ecommerce-Sales-PowerBI/
-│
-├── README.md
-│
-├── PowerBI/
-│   └── Ecommerce_Sales_Dashboard.pbix
-│
-├── SQL/
-│   ├── data_validation.sql
-│   └── analysis_queries.sql
-│
-├── Dataset/
-│   └── ecommerce_sales.csv
-│
-└── Screenshots/
-    └── dashboard.png
-```
 
 ---
 
