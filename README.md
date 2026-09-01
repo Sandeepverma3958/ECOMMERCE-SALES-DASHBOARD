@@ -345,7 +345,3 @@ Trend indicators were also created using `UNICHAR()` to display upward and downw
 
 
 ---
-
-
-
-tHub-ready** and also gives you a clear structure for explaining the project in an interview.
