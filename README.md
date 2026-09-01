@@ -1,8 +1,3 @@
-Absolutely. For GitHub, your README should be **structured like a real data analytics project**, not just a description of the dashboard.
-
-You can copy the following directly into your `README.md`.
-
----
 
 # 🛒 E-Commerce Sales Dashboard | Power BI
 
